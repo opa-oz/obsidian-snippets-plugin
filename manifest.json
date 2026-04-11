@@ -1,9 +1,9 @@
 {
-	"id": "snippets-plugin",
-	"name": "Snippets Plugin",
-	"version": "1.0.0",
+	"id": "snippets-catcher",
+	"name": "Snippets Catcher",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Manage CSS snippets within your Obsidian vault.",
+	"description": "Manage CSS snippets within your vault.",
 	"author": "Vladimir Levin",
 	"authorUrl": "https://github.com/opa-oz",
 	"fundingUrl": "https://ko-fi.com/opa_oz",
